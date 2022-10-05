@@ -50,18 +50,19 @@ main {
 
   }
 .texto {
-    background: #5c94fdbd;
+     background: #5c94fdbd;
     box-shadow: 0 8px 32px 0 rgba(0, 84, 240, 0.719);
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     border-radius: 10px;
     border: 1px solid rgba(0, 84, 240, 0.719);
-    width: 400px;
+    width: 500px;
     display:grid;
     align-items: center;
     flex-direction:column;
     padding: 20px;
     margin-top: 10px;
+    background-image: url("https://thumbs.gfycat.com/FailingYellowishAmericanlobster-max-1mb.gif");
   }
 
   .opção {
@@ -119,6 +120,9 @@ main {
     border-radius: 16px;
     padding: 16px;
     margin: 16px;
+    background-image: url("https://i.pinimg.com/originals/87/a0/5c/87a05c96c69c16d6d7266d36d504d06f.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
   }
   
   #steps {
