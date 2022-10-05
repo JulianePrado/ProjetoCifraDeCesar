@@ -2,7 +2,7 @@ h1{
     color: white;
     background-color: rgb(5, 12, 75);
     display: grid;
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,9 @@ h1{
 body{
    
     background-position: center;
-    background-image: url('../imagem/fundo.png');  
+    background-image: url('../imagem/fundo.png');
+    background-repeat: no-repeat;
+    background-size: 100%
         
 }
 html {
